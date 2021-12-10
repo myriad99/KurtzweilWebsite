@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/KurtzweilWebsite/static/css/main.bf61f42e.chunk.css",
+    "main.js": "/KurtzweilWebsite/static/js/main.4db7c9eb.chunk.js",
+    "main.js.map": "/KurtzweilWebsite/static/js/main.4db7c9eb.chunk.js.map",
+    "runtime-main.js": "/KurtzweilWebsite/static/js/runtime-main.f2fd444c.js",
+    "runtime-main.js.map": "/KurtzweilWebsite/static/js/runtime-main.f2fd444c.js.map",
+    "static/js/2.80fb46b3.chunk.js": "/KurtzweilWebsite/static/js/2.80fb46b3.chunk.js",
+    "static/js/2.80fb46b3.chunk.js.map": "/KurtzweilWebsite/static/js/2.80fb46b3.chunk.js.map",
+    "index.html": "/KurtzweilWebsite/index.html",
+    "static/css/main.bf61f42e.chunk.css.map": "/KurtzweilWebsite/static/css/main.bf61f42e.chunk.css.map",
+    "static/js/2.80fb46b3.chunk.js.LICENSE.txt": "/KurtzweilWebsite/static/js/2.80fb46b3.chunk.js.LICENSE.txt",
+    "static/media/GOPR0509.e32f3093.JPG": "/KurtzweilWebsite/static/media/GOPR0509.e32f3093.JPG",
+    "static/media/GeorgeOlive2020.5b1dd86d.jpg": "/KurtzweilWebsite/static/media/GeorgeOlive2020.5b1dd86d.jpg",
+    "static/media/IMG_0012.ce757050.JPG": "/KurtzweilWebsite/static/media/IMG_0012.ce757050.JPG",
+    "static/media/IMG_0302.e492ba15.JPG": "/KurtzweilWebsite/static/media/IMG_0302.e492ba15.JPG",
+    "static/media/george-kurtzweil.b31e43ae.jpg": "/KurtzweilWebsite/static/media/george-kurtzweil.b31e43ae.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2fd444c.js",
+    "static/js/2.80fb46b3.chunk.js",
+    "static/css/main.bf61f42e.chunk.css",
+    "static/js/main.4db7c9eb.chunk.js"
+  ]
+}
