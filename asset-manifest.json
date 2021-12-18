@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/GeorgeKurtzweil/static/css/main.0d1a0395.chunk.css",
-    "main.js": "/GeorgeKurtzweil/static/js/main.21b4e2c0.chunk.js",
-    "main.js.map": "/GeorgeKurtzweil/static/js/main.21b4e2c0.chunk.js.map",
-    "runtime-main.js": "/GeorgeKurtzweil/static/js/runtime-main.69d71d15.js",
-    "runtime-main.js.map": "/GeorgeKurtzweil/static/js/runtime-main.69d71d15.js.map",
-    "static/js/2.f3579510.chunk.js": "/GeorgeKurtzweil/static/js/2.f3579510.chunk.js",
-    "static/js/2.f3579510.chunk.js.map": "/GeorgeKurtzweil/static/js/2.f3579510.chunk.js.map",
-    "index.html": "/GeorgeKurtzweil/index.html",
-    "static/css/main.0d1a0395.chunk.css.map": "/GeorgeKurtzweil/static/css/main.0d1a0395.chunk.css.map",
-    "static/js/2.f3579510.chunk.js.LICENSE.txt": "/GeorgeKurtzweil/static/js/2.f3579510.chunk.js.LICENSE.txt",
-    "static/media/GOPR0509.e32f3093.JPG": "/GeorgeKurtzweil/static/media/GOPR0509.e32f3093.JPG",
-    "static/media/GeorgeOlive2020.5b1dd86d.jpg": "/GeorgeKurtzweil/static/media/GeorgeOlive2020.5b1dd86d.jpg",
-    "static/media/IMG_0012.ce757050.JPG": "/GeorgeKurtzweil/static/media/IMG_0012.ce757050.JPG",
-    "static/media/IMG_0302.e492ba15.JPG": "/GeorgeKurtzweil/static/media/IMG_0302.e492ba15.JPG",
-    "static/media/george-kurtzweil.b31e43ae.jpg": "/GeorgeKurtzweil/static/media/george-kurtzweil.b31e43ae.jpg"
+    "main.css": "/KurtzweilWebsite/static/css/main.589f45fc.chunk.css",
+    "main.js": "/KurtzweilWebsite/static/js/main.140a248f.chunk.js",
+    "main.js.map": "/KurtzweilWebsite/static/js/main.140a248f.chunk.js.map",
+    "runtime-main.js": "/KurtzweilWebsite/static/js/runtime-main.f2fd444c.js",
+    "runtime-main.js.map": "/KurtzweilWebsite/static/js/runtime-main.f2fd444c.js.map",
+    "static/js/2.bfb4a6c6.chunk.js": "/KurtzweilWebsite/static/js/2.bfb4a6c6.chunk.js",
+    "static/js/2.bfb4a6c6.chunk.js.map": "/KurtzweilWebsite/static/js/2.bfb4a6c6.chunk.js.map",
+    "index.html": "/KurtzweilWebsite/index.html",
+    "static/css/main.589f45fc.chunk.css.map": "/KurtzweilWebsite/static/css/main.589f45fc.chunk.css.map",
+    "static/js/2.bfb4a6c6.chunk.js.LICENSE.txt": "/KurtzweilWebsite/static/js/2.bfb4a6c6.chunk.js.LICENSE.txt",
+    "static/media/GOPR0509.e32f3093.JPG": "/KurtzweilWebsite/static/media/GOPR0509.e32f3093.JPG",
+    "static/media/GeorgeOlive2020.5b1dd86d.jpg": "/KurtzweilWebsite/static/media/GeorgeOlive2020.5b1dd86d.jpg",
+    "static/media/IMG_0012.ce757050.JPG": "/KurtzweilWebsite/static/media/IMG_0012.ce757050.JPG",
+    "static/media/IMG_0302.e492ba15.JPG": "/KurtzweilWebsite/static/media/IMG_0302.e492ba15.JPG",
+    "static/media/KurtzweilCV2021.c0267513.pdf": "/KurtzweilWebsite/static/media/KurtzweilCV2021.c0267513.pdf",
+    "static/media/george-kurtzweil.b31e43ae.jpg": "/KurtzweilWebsite/static/media/george-kurtzweil.b31e43ae.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.69d71d15.js",
-    "static/js/2.f3579510.chunk.js",
-    "static/css/main.0d1a0395.chunk.css",
-    "static/js/main.21b4e2c0.chunk.js"
+    "static/js/runtime-main.f2fd444c.js",
+    "static/js/2.bfb4a6c6.chunk.js",
+    "static/css/main.589f45fc.chunk.css",
+    "static/js/main.140a248f.chunk.js"
   ]
 }
